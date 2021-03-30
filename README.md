@@ -1,9 +1,3 @@
-- Hi 👋 , I’m 
-
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <h1 align="center">Hi 👋, I'm Nayan Parekh</h1>
 <h2> 👀 I’m interested in website design and graphic design</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
